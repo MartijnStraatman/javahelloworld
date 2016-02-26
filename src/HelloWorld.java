@@ -6,7 +6,7 @@ public class HelloWorld {
              System.out.println(args[0]);
           } 
 
-          System.out.println("hello world, you idiot ");
+          System.out.println("hello world, you idiot, and again");
           System.exit(0);
 	} 
 
